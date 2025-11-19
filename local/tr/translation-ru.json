@@ -1,0 +1,87 @@
+{
+  "ru": {
+    "navabout": "Обо мне",
+    "navskills": "Навыки",
+    "navprojects": "Проекты",
+    "navcontact": "Контакты",
+
+    "langen": "Английский",
+    "langar": "Арабский",
+    "langru": "Русский",
+    "languk": "Украинский",
+
+    "langenglish": "Английский",
+    "langenglishlevel": "Средний",
+    "langarabic": "Арабский",
+    "langarabiclevel": "Родной язык",
+    "langrussian": "Русский",
+    "langrussianlevel": "Начальный уровень",
+    "langukrainian": "Украинский",
+    "langukrainianlevel": "Начальный уровень",
+
+    "herotitle": "Моркус Абануб",
+    "herosubtitle": "Junior React Front-End разработчик",
+    "herocontact": "Связаться со мной",
+    "herocv": "Моё резюме",
+
+    "abouttitle": "Обо мне",
+    "abouttext1": "Я работаю фронтенд-разработчиком и создаю современные, быстрые и удобные интерфейсы на React. Мне нравится превращать дизайн в живые и плавные веб-страницы, уделяя внимание аккуратному и поддерживаемому коду.",
+    "abouttext2": "Быстро осваиваю новые инструменты, умею анализировать проблемы и находить практичные решения. Уверенно работаю в условиях дедлайнов, эффективно распределяю время и легко взаимодействую с командой.",
+    "abouttext3": "Стремлюсь присоединиться к профессиональной команде и участвовать в создании качественных цифровых продуктов. Постоянно развиваюсь как фронтенд-разработчик и стремлюсь создавать интерфейсы, которые действительно улучшают опыт пользователей.",
+
+    "skillstitle": "Технические навыки",
+    "skillsprogramming": "Языки программирования",
+    "skillsjs.desc": "Мой основной язык для создания динамичных и интерактивных интерфейсов",
+    "skillstsdesc": "Типизированная версия JavaScript, которую я изучаю для улучшения качества кода",
+    "skillshtmldesc": "Язык разметки для структуры веб-страниц",
+    "skillscssdesc": "Язык стилей для создания современных адаптивных интерфейсов",
+
+    "projectstitle": "Мои проекты",
+    "projectsproject1title": "Современный интерфейс e-commerce",
+    "projectsproject1desc": "Адаптивный интерфейс интернет-магазина, созданный на React с custom hooks и API-интеграцией.",
+    "projectsproject2title": "Интерфейс менеджера задач",
+    "projectsproject2desc": "Front-end приложение для управления задачами на React с фильтрацией и анимациями.",
+    "projectsproject3title": "Личное портфолио",
+    "projectsproject3desc": "Современный сайт-портфолио, разработанный с использованием React и CSS с плавными анимациями.",
+
+    "projectsview": "Посмотреть проект",
+
+    "contacttitle": "Связаться со мной",
+    "contactemailtitle": "Электронная почта",
+    "contactemail": "morkos.abanoub@example.com",
+    "contactemail.button": "Отправить письмо",
+    "contactphonetitle": "Телефон",
+    "contactphone": "+20 123 456 7890",
+    "contactphonebutton": "Позвонить",
+
+    "contactcvtitle": "Скачать резюме",
+    "contactcvtext": "Скачайте моё полное резюме",
+    "contactcvbutton": "Скачать резюме",
+
+    "contactformtitle": "Отправить сообщение",
+    "contactformname": "Ваше имя",
+    "contactformemail": "Электронная почта",
+    "contactformmessage": "Сообщение",
+    "contactformbutton": "Отправить",
+
+    "isloading": "Загрузка...",
+
+    "skillhtml5": "HTML5",
+    "skillcss": "CSS",
+    "skillsass": "SASS",
+    "skilljavascript": "JavaScript",
+    "skilltypescript": "TypeScript",
+    "skillreact": "React",
+    "skillnode": "Node.js",
+    "skillexpress": "Express",
+    "skillrestapi": "REST API",
+    "skillmongodb": "MongoDB",
+    "skillmysql": "MySQL",
+    "skillbootstrap": "Bootstrap",
+    "skilltailwind": "Tailwind CSS",
+    "skillgit": "Git",
+    "skilldocker": "Docker",
+
+    "footercopyright": "© 2023 Моркус Абануб — React Front-End разработчик"
+  }
+}
