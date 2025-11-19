@@ -46,8 +46,9 @@
     "contactphone": "+20 123 456 7890",
     "contactphonebutton": "Call Me",
     "contactcvtitle": "Download CV",
-    "contactcvtext": "Download my full resume and experience",
+    "contactcvtext": "my full resume and experience",
     "contactcvbutton": "Download CV",
+    "githubtext":"My projects on GitHub",
     "contactformtitle": "Send Me a Message",
     "contactformname": "Your Name",
     "contactformemail": "Email Address",
@@ -69,6 +70,12 @@
     "skillbootstrap": "Bootstrap",
     "skilltailwind": "Tailwind CSS",
     "skillgit": "Git",
-    "skilldocker": "Docker"
+    "skilldocker": "Docker",
+    "project1": "Restaurant Website",
+    "project1disc" :"A beautifully crafted restaurant website designed to deliver a smooth and mouth-watering user experience. Visitors can explore a rich menu, discover signature dishes, learn about the restaurant’s story, and easily find location and contact details — all wrapped in a clean, modern, and responsive design that works perfectly on phones and desktops.",
+    "project2": "E-commerce website",
+    "project2disc" :"A full e-commerce web application built with React that includes product browsing, cart management, and a smooth checkout flow. It also features a complete admin dashboard for managing products, users, and overall store content. The site is available in four languages: English, Arabic, Ukrainian.."
+    
+
   }
 }
