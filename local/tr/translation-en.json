@@ -38,6 +38,7 @@
     "projectsproject3title": "Personal Portfolio",
     "projectsproject3desc": "A modern portfolio showcasing my front-end skills using React, CSS, and animations.",
     "projectsview": "View Project",
+    "projectscode": "View code",
     "contacttitle": "Get In Touch",
     "contactemailtitle": "Email",
     "contactemail": "morkos.abanoub@example.com",
@@ -75,6 +76,10 @@
     "project1disc": "A beautifully crafted restaurant website designed to deliver a smooth and mouth-watering user experience. Visitors can explore a rich menu, discover signature dishes, learn about the restaurant’s story, and easily find location and contact details — all wrapped in a clean, modern, and responsive design that works perfectly on phones and desktops.",
     "project2": "E-commerce website",
     "project2disc": "A full e-commerce web application built with React that includes product browsing, cart management, and a smooth checkout flow. It also features a complete admin dashboard for managing products, users, and overall store content. The site is available in four languages: English, Arabic, Ukrainian..",
+    "project3": "Portfolio / CV Website",
+    "project3disc": "A modern, responsive portfolio website template for showcasing personal information, skills, and projects. Designed as a general-purpose CV/portfolio for developers, designers, and freelancers, with clean sections, smooth navigation, and easy-to-edit demo content. Available in English, Arabic, Ukrainian, and Russian.",
+    "project4": "HTML & CSS Skills Showcase",
+    "project4disc": "A front-end demo project highlighting core HTML and CSS skills, with clean structure, semantic HTML, responsive layouts, and modern CSS techniques like Flexbox and Grid.",
     "successful_send": "✅ Message sent successfully!",
     "send_error": "❌ An error occurred while sending, please try again."
   }
