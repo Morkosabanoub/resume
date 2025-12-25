@@ -79,7 +79,7 @@
     "project3": "Portfolio / CV Website",
     "project3disc": "A modern, responsive portfolio website template for showcasing personal information, skills, and projects. Designed as a general-purpose CV/portfolio for developers, designers, and freelancers, with clean sections, smooth navigation, and easy-to-edit demo content. Available in English, Arabic, Ukrainian, and Russian.",
     "project4": "HTML & CSS Skills Showcase",
-    "project4disc": "A front-end demo project highlighting core HTML and CSS skills, with clean structure, semantic HTML, responsive layouts, and modern CSS techniques like Flexbox and Grid.",
+    "project4disc": "A front-end demonstration project created specifically to showcase core HTML and CSS skills. The project focuses on clean structure, semantic HTML, responsive layouts, and modern CSS techniques such as Flexbox and Grid. It was built as a practical skills test rather than a production website, using demo content to highlight layout accuracy, styling consistency, and attention to detail., responsive layouts, and modern CSS techniques like Flexbox and Grid.",
     "successful_send": "✅ Message sent successfully!",
     "send_error": "❌ An error occurred while sending, please try again."
   }
